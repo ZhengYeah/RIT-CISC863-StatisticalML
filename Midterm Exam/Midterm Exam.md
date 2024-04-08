@@ -51,6 +51,7 @@ p(x_1,x_2,x_3,x_4) = \psi(x_1,x_4)\psi(x_1,x_2)\psi(x_2,x_3)\psi(x_3,x_4).
 $$
 
 
+
 Q5: ML estimation for linear regression.
 
 A: If $x_i,y_i$ are regraded as the instantiations of random variables $X,Y$, then
@@ -65,6 +66,7 @@ and
 $$
 \bar{y}-w_1\bar{x} \approx \mathrm{E}[Y]-w_1\mathrm{E}(X).
 $$
+
 
 
 Q6: The logit of the probability of a logistic regression model is a linear function of $x$.
